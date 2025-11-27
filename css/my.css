@@ -1,0 +1,16 @@
+.bg-f{
+    background-image: url(../img/coffee.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 41rem;
+    width: 100%;
+}
+.pt-10{
+    padding-top: 11rem;
+}
+.fs-10{
+    font-size: 5rem;
+}
+.decore{
+    text-decoration: none;
+}
